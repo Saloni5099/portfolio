@@ -1,0 +1,60 @@
+body{
+    font-family:'Arial',sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #eee2e2;
+}
+.container{
+    width:800px;
+    margin:0 auto;
+    padding: 25px;
+}
+header{
+    text-align:center;
+}
+.copyright{
+    width:500px;
+    margin:0 auto;
+    padding: 25px;
+}
+header img{
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+section{
+    margin: 40px 0;
+}
+.cont{
+    color:#333;
+}
+form{
+    display: grid;
+    gap: 15px;;
+}
+label{
+    font-weight: bold;
+}
+input,button{
+    padding: 10px;
+    font-size: 16px;
+}
+.btn{
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    background-color: #f8f8f8;
+    padding: 5px 0;
+    height: 70px;
+}
+
+
+
